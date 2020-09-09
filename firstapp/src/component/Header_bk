@@ -1,0 +1,15 @@
+internally defined css
+
+const mystyle= {
+            header:{
+                backgroundColor:"teal"  
+            },
+            logo:{
+                textAlign:"center",
+                fontSize: "30px",
+                color:"white"
+            }
+        }
+    
+
+   

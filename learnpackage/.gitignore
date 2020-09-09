@@ -1,0 +1,3 @@
+node_modules
+node module is a folder which we have to ignore
+while uploading on git, it is most heavy folder in application hence we wont passes it 
